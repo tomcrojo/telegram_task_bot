@@ -29,8 +29,8 @@ Para construir este bot, combiné algunas de las herramientas más poderosas del
 1. **Clonar el Repositorio**:
    Abre tu terminal y clona el repositorio con el siguiente comando:
    ```bash
-   git clone https://github.com/tu_usuario/telegram-task-tracker-bot.git
-   cd telegram-task-tracker-bot
+   git clone https://github.com/tomcrojo/telegram_task_bot.git
+   cd telegram_task_bot
    ```
 2. **Instalar Dependencias:**
 Asegúrate de tener un entorno virtual activado (opcional pero recomendado). Luego, instala las librerías necesarias:
